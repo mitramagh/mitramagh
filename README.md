@@ -1,14 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mitra
+Hi there!I'm Mitra [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =========================================================================================================================================
 
-Backend Developer
+Full Stack Software Developer
 -----------------
 
-Python, Java, and more
+🔭 I'm currently a Software Developer with expertise in Python, Java, C# and JavaScript, and a passion for cloud technologies like AWS.
+
+🌱 I'm an alumna of Ada Developers Academy and Georgia Institute of Technology, where I honed my skills in software engineering and problem solving and critical thinking.
+
+👯 I love collaborating on innovative projects. Check out my work on the “Small Wins” app and my VR building tour project!
+
+💬 Ask me about my experience as a Software Developer Intern at Indeed, or anything related to full-stack development and cloud solutions.
 
 * 🌍  I'm based in Seattle, WA
 * ✉️  You can contact me at [mit.magh@gmail.com](mailto:mit.magh@gmail.com)
-* 🧠  I'm learning Unity & C# and AR/VR
 
 ### Skills
 
