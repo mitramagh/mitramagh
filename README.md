@@ -6,7 +6,7 @@ Full Stack Software Developer
 
 🔭 I'm currently a Software Developer with expertise in Python, Java, C# and JavaScript, and a passion for cloud technologies like AWS.
 
-🌱 I'm an alumna of Ada Developers Academy and Georgia Institute of Technology, where I honed my skills in software engineering and problem solving and critical thinking.
+🌱 I'm an alumna of Ada Developers Academy and Georgia Institute of Technology, where I honed my skills in software engineering, problem solving and critical thinking.
 
 👯 I love collaborating on innovative projects. Check out my work on the “Small Wins” app and my VR building tour project!
 
