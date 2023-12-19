@@ -14,6 +14,7 @@ Full Stack Software Developer
 
 * 🌍  I'm based in Seattle, WA
 * ✉️  You can contact me at [mit.magh@gmail.com](mailto:mit.magh@gmail.com)
+* Please check this out for my personal portfolio: [https://mitramagh.github.io/portfolio.github.io/]
 
 ### Skills
 
